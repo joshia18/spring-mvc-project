@@ -10,3 +10,5 @@ Below are the validations done.
 
 Controller files are present in `spring-mvc-project/src/com/ajcode/springmvcdemo/mvc/`
 JSP views are present in `spring-mvc-project/WebContent/WEB-INF/view/`
+
+There is no database connection in this project.
